@@ -1,6 +1,8 @@
-### Responsive Christmas Website ⛄️
+# Responsive Christmas Website ⛄️
 
-- To see the live Website [click here]
+- To see the live Website [click here](https://shouryabrahmastra.github.io/Merry-Christmas/)
+
+## What this landing page contain
 
 - Responsive Christmas Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
